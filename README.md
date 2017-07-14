@@ -44,9 +44,9 @@ Python3 or higher
 
 ## Espanhol
 
-Buscar páginas administrativas en sitios con ** Admin Finder ** una simple herramienta hecha en Python
+Buscar páginas administrativas en sitios con **Admin Finder** una simple herramienta hecha en Python
 
-***Observación*** : ** No me responsabilizo por sus actos, utilice por su cuenta y riesgo.**
+***Observación*** : **No me responsabilizo por sus actos, utilice por su cuenta y riesgo.**
 
 #### Instrucciones
 
