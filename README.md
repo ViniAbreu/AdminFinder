@@ -42,7 +42,7 @@ Python3 or higher
 [Sr Biggs](https://github.com/BiggsCoder)
 
 
-#### Espanhol
+## Espanhol
 
 Buscar páginas administrativas en sitios con ** Admin Finder ** una simple herramienta hecha en Python
 
@@ -59,3 +59,5 @@ Buscar páginas administrativas en sitios con ** Admin Finder ** una simple herr
 Python3 o superior
 
 #### Desarrollador
+
+[Sr Biggs](https://github.com/BiggsCoder)
