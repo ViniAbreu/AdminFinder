@@ -69,7 +69,7 @@ elif 'https://' in site:
 else:
     site = 'http://' + site
 
-headers = {
+header = {
         'user-agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36'
                       'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
                       'AppleWebKit/537.36 (KHTML, like Gecko) '
@@ -87,7 +87,7 @@ for flag in wordlists:
     flag = flag.replace("\n","")
     try:
         url = site+flag
-        req = requests.get(url)
+        req = requests.get(url, headers=header)
         codigo = req.status_code
 
         if codigo == 200:
