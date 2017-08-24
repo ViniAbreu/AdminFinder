@@ -39,7 +39,7 @@ banner = '''
      :      \       `MMMMMMM'\				          |                     Coder: Sr. Biggs                      |
     :'       `:      MMMMMMM: `\				  |                     Telegram: @SrBiggs                    |
     :         `:     `MMMMM':   `:				  |                     Version: 1.0                          |
-    :      mMMMm      MMMM' :    :				  |                     GitHub: BiggsCoder                    |
+    :      mMMMm      MMMM' :    :				  |                     GitHub: SrBiggs                       |
     :     mMMMMMMm    mMMm  :    :				  +-----------------------------------------------------------+
      \    `MMMMMMm    mMMm  :   /
     /~~~   MMMMMMm    mJVm  : /'___
