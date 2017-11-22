@@ -8,7 +8,7 @@ Encontre páginas administrativas em sites com **Admin Finder** um simples ferra
 
 #### Instruções
 
-1 - git clone https://github.com/BiggsCoder/AdminFinder/
+1 - git clone https://github.com/SrBiggs/AdminFinder/
 
 2 - pip install requests
 
@@ -18,7 +18,7 @@ Python3 ou superior
 
 #### Desenvolvedor
 
-[Sr Biggs](https://github.com/BiggsCoder)
+[Sr Biggs](https://github.com/SrBiggs)
 
 
 ## Inglês
@@ -29,7 +29,7 @@ Find administrative pages on sites with **Admin Finder** a simple tool made in P
 
 #### Instructions
 
-1 - git clone https://github.com/BiggsCoder/AdminFinder/
+1 - git clone https://github.com/SrBiggs/AdminFinder/
 
 2 - pip install requests
 
@@ -39,7 +39,7 @@ Python3 or higher
 
 #### Developer
 
-[Sr Biggs](https://github.com/BiggsCoder)
+[Sr Biggs](https://github.com/SrBiggs)
 
 
 ## Espanhol
@@ -50,7 +50,7 @@ Buscar páginas administrativas en sitios con **Admin Finder** una simple herram
 
 #### Instrucciones
 
-1 - git clone https://github.com/BiggsCoder/AdminFinder/
+1 - git clone https://github.com/SrBiggs/AdminFinder/
 
 2 - PIP install requests
 
@@ -60,7 +60,7 @@ Python3 o superior
 
 #### Desarrollador
 
-[Sr Biggs](https://github.com/BiggsCoder)
+[Sr Biggs](https://github.com/SrBiggs)
 
 
 
